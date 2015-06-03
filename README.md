@@ -10,6 +10,7 @@ An HTTP server modeled on Ruby on Rails built on WEBrick using Ruby metaprogramm
 
 ## TODO
 * Add `Flash` class which includes a `#now` method
+* "Strong Parameters"
 * Add Route Helpers (`link_to`, `button_to`)
 * Add CSRF Tokens
 * Add View partials
