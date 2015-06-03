@@ -2,6 +2,8 @@
 
 An HTTP server modeled on Ruby on Rails built on WEBrick using Ruby metaprogramming.
 
+Built to gain a deeper understanding of Rails.
+
 ## Features included:
 * Sessions using cookies
 * ERB Templating for Views
